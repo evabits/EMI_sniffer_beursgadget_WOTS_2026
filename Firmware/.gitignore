@@ -1,0 +1,6 @@
+# PlatformIO build output & metadata
+.pio/
+
+# Gebouwde AppImage (reproduceer met tools/provisioner/build-appimage.sh)
+tools/provisioner/*.AppImage
+__pycache__/
